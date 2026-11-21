@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .hero {
+    padding: 50px 0;
+    text-align: center;
+  }
+
+  .gallery-img {
+    height: 160px;
+  }
+}
